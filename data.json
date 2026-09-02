@@ -1,0 +1,139 @@
+{
+  "templates": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "category": "Minimal",
+      "bg": "#fffdf9",
+      "border": 18,
+      "radius": 6,
+      "shadow": 16
+    },
+    {
+      "id": "polaroid",
+      "name": "Polaroid",
+      "category": "Vintage",
+      "bg": "#fffdf9",
+      "border": 22,
+      "radius": 4,
+      "shadow": 22
+    },
+    {
+      "id": "film",
+      "name": "Film",
+      "category": "Film",
+      "bg": "#2c211b",
+      "border": 28,
+      "radius": 3,
+      "shadow": 18
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage",
+      "category": "Vintage",
+      "bg": "#e8d8c8",
+      "border": 20,
+      "radius": 8,
+      "shadow": 24
+    },
+    {
+      "id": "minimal",
+      "name": "Minimal",
+      "category": "Minimal",
+      "bg": "#f7f1e8",
+      "border": 6,
+      "radius": 16,
+      "shadow": 10
+    },
+    {
+      "id": "scrapbook",
+      "name": "Scrapbook",
+      "category": "Scrapbook",
+      "bg": "#ead8c5",
+      "border": 25,
+      "radius": 4,
+      "shadow": 20
+    },
+    {
+      "id": "editorial",
+      "name": "Editorial",
+      "category": "Editorial",
+      "bg": "#f7f1e8",
+      "border": 12,
+      "radius": 2,
+      "shadow": 12
+    },
+    {
+      "id": "postcard",
+      "name": "Postcard",
+      "category": "Travel",
+      "bg": "#fffdf9",
+      "border": 24,
+      "radius": 3,
+      "shadow": 18
+    },
+    {
+      "id": "cute",
+      "name": "Soft Cute",
+      "category": "Cute",
+      "bg": "#f0ded4",
+      "border": 18,
+      "radius": 18,
+      "shadow": 14
+    }
+  ],
+  "filters": {
+    "Original": "none",
+    "Warm": "sepia(.18) saturate(1.12) brightness(1.03)",
+    "Vintage": "sepia(.35) contrast(.92) saturate(.82)",
+    "Soft": "brightness(1.08) contrast(.9) saturate(.9)",
+    "B&W": "grayscale(1) contrast(1.05)",
+    "Fade": "contrast(.88) brightness(1.08) saturate(.72)",
+    "Cocoa": "sepia(.3) hue-rotate(335deg) saturate(.9) contrast(1.02)",
+    "Film": "contrast(1.08) saturate(.82) sepia(.12)"
+  },
+  "backgrounds": [
+    {
+      "name": "Cream",
+      "value": "#f7f1e8"
+    },
+    {
+      "name": "Beige",
+      "value": "#e8d8c8"
+    },
+    {
+      "name": "Cocoa",
+      "value": "#7a5743"
+    },
+    {
+      "name": "Paper",
+      "value": "#fffdf9"
+    },
+    {
+      "name": "Grid",
+      "value": "grid"
+    },
+    {
+      "name": "Dots",
+      "value": "dots"
+    },
+    {
+      "name": "Transparent",
+      "value": "transparent"
+    }
+  ],
+  "stickers": [
+    "\u2726",
+    "\u2661",
+    "\u273f",
+    "\u2727",
+    "\u2615",
+    "\ud83d\udcf7",
+    "\ud83e\udd8b",
+    "\u270e",
+    "\u2022",
+    "\u22c6",
+    "\u274b",
+    "\u2301"
+  ]
+}
